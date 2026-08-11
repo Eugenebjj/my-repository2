@@ -1,2 +1,3 @@
 #About Me
-This is how to edit
+This is where to put about me information.
+ya da ....
